@@ -1,0 +1,157 @@
+
+
+ https://newsapi.org/
+ v2/top-headlines?
+ country=us&category=business&apiKey=aec8d59faaef4ccaa38aa39761c9dfba
+
+
+{
+  "status": "ok",
+  "totalResults": 70,
+ "articles": [
+  {
+    "source": {
+      "id": "engadget",
+      "name": "Engadget"
+    },
+    "author": "https://www.engadget.com/about/editors/steve-dent",
+    "title": "TikTok negotiation 'strangest thing I've ever worked on,' says Microsoft's Satya Nadella - Engadget",
+    "description": "This time last year, ByteDance was trying to save its TikTok app in the US and elsewhere after Donald Trump's administration threatened to ban it..",
+    "url": "https://www.engadget.com/microsoft-ceo-satya-nadella-calls-tik-tok-deal-strangest-thing-ive-ever-worked-on-052616118.html",
+    "urlToImage": "https://s.yimg.com/os/creatr-uploaded-images/2021-09/0f19e090-201c-11ec-bcb4-b30e56a2829e",
+    "publishedAt": "2021-09-28T05:27:50Z",
+    "content": "This time last year, ByteDance was trying to save its TikTok app in the US and elsewhere after Donald Trump's administration threatened to ban it. One potential savior was Microsoft, which had negoti… [+2991 chars]"
+  },
+  {
+   "source": {
+      "id": null,
+      "name": "CNBC"
+    },
+    "author": "Abigail Ng",
+    "title": "CDC raises Covid travel advisory level for Singapore and Hong Kong - CNBC",
+    "description": "The U.S. Centers for Disease Control and Prevention on Monday increased its travel advisories for Singapore and Hong Kong by one level each.",
+    "url": "https://www.cnbc.com/2021/09/28/cdc-raises-covid-travel-advisory-level-for-singapore-hong-kong.html",
+    "urlToImage": "https://image.cnbcfm.com/api/v1/image/106789000-1604977929708-gettyimages-1229247704-AFP_8TQ9GE.jpeg?v=1632802442",
+    "publishedAt": "2021-09-28T05:22:55Z",
+    "content": "People are silhouetted against Singapore Airlines Airbus planes at Changi International Airport in Singapore on October 24, 2020.\r\nThe U.S. Centers for Disease Control and Prevention on Monday raised… [+3004 chars]"
+  },
+  {
+    "source": {
+      "id": "google-news",
+      "name": "Google News"
+    },
+    "author": null,
+    "title": "China's Economy Under Pressure as Energy Crisis Deepens - Bloomberg Markets and Finance",
+    "description": null,
+    "url": "https://news.google.com/__i/rss/rd/articles/CBMiK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9bDFfejlBbG5fcXPSAQA?oc=5",
+    "urlToImage": null,
+    "publishedAt": "2021-09-28T05:13:24Z",
+    "content": null
+  },
+  {
+    "source": {
+      "id": "financial-times",
+      "name": "Financial Times"
+    },
+    "author": null,
+    "title": "Oil prices rise above $80 a barrel for first time in three years - Financial Times",
+    "description": "Global gas shortfall and Chinese anti-pollution drive expected to push Brent crude higher",
+    "url": "https://www.ft.com/content/14d4980b-8163-4359-bc4a-fb2b7f7d2c27",
+    "urlToImage": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F0fcdca26-30ee-4bbb-925c-029c252f972f.jpg?source=next-opengraph&fit=scale-down&width=900",
+    "publishedAt": "2021-09-28T05:05:58Z",
+    "content": "Signs of a global energy crunch pushed oil prices above $80 a barrel for the first time in three years as markets grappled with the prospect of widespread fuel shortfalls heading into the end of the … [+2947 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Cointelegraph"
+    },
+    "author": "Brian Quarmby",
+    "title": "SEC takes action against two meme stock wash traders - Cointelegraph",
+    "description": "The SEC has taken action against two meme stock traders over a wash-trading scheme that allegedly generated more than $700,000 worth of market maker rebates.",
+    "url": "https://cointelegraph.com/news/sec-takes-action-against-two-meme-stock-wash-traders",
+    "urlToImage": "https://images.cointelegraph.com/images/1200_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjEtMDkvMzBkYzNmZmEtOGM2Mi00MjAyLWI2MjMtZDkwNGUzOGRmNjgwLmpwZw==.jpg",
+    "publishedAt": "2021-09-28T04:38:55Z",
+    "content": "The U.S. Securities and Exchange Commission has filed a complaint against two Robinhood users over an alleged wash-trading-based arbitrage scheme that utilized meme stocks.\r\nAccording to a Sept. 27 c… [+2382 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "BBC News"
+    },
+    "author": "https://www.facebook.com/bbcnews",
+    "title": "Goldman Sachs cuts China growth forecast over power outages - BBC News",
+    "description": "The country has seen electricity shortages that have left some factories and homes without power.",
+    "url": "https://www.bbc.com/news/business-58704200",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/83D7/production/_120715733_gettyimages-167231386.jpg",
+    "publishedAt": "2021-09-28T03:27:10Z",
+    "content": "image source, Getty Images\r\nimage captionEnergy shortages are clouding China's economic outlook\r\nGoldman Sachs has become the latest banking giant to cut its growth forecast for China, as the country… [+2738 chars]"
+  },
+  {
+    "source": {
+      "id": "google-news",
+      "name": "Google News"
+    },
+    "author": null,
+    "title": "These two themes are determining how stocks trade right now, says Jim Cramer - CNBC Television",
+    "description": null,
+    "url": "https://news.google.com/__i/rss/rd/articles/CBMiK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9N05xOHhyZWYzQ3fSAQA?oc=5",
+    "urlToImage": null,
+    "publishedAt": "2021-09-28T03:18:13Z",
+    "content": null
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "KSL.com"
+    },
+    "author": "Jonathan Stempel, Reuters",
+    "title": "Wells Fargo to pay another $37.3 million to settle US claims it fraudulently overcharged customers - KSL.com",
+    "description": "Wells Fargo & Co. will pay $37.3 million to settle U.S. government claims it fraudulently overcharged commercial clients on foreign exchange services, the latest in a string of scandals over the bank's treatment of customers.",
+    "url": "https://www.ksl.com/article/50250407/wells-fargo-to-pay-another-373-million-to-settle-us-claims-it-fraudulently-overcharged-customers",
+    "urlToImage": "https://img.ksl.com/slc/2843/284324/28432480.JPG?filter=ksl/responsive_story_lg",
+    "publishedAt": "2021-09-28T02:45:31Z",
+    "content": "NEW YORK CITY Wells Fargo &amp; Co will pay $37.3 million to settle U.S. government claims it fraudulently overcharged commercial clients on foreign exchange services, the latest in a string of scand… [+2266 chars]"
+  },
+  {
+    "source": {
+      "id": "reuters",
+      "name": "Reuters"
+    },
+    "author": null,
+    "title": "Asian markets grapple with Evergrande fallout, eye China power crunch - Reuters",
+    "description": "Asian shares mainly drifted lower Tuesday as investors continued to fret over China Evergrande Group's <a href=\"https://www.reuters.com/companies/3333.HK\" target=\"_blank\">(3333.HK)</a> unsolved debt crisis and eyed the potential impact of a widening power sho…",
+    "url": "https://www.reuters.com/business/global-markets-wrapup-1-2021-09-28/",
+    "urlToImage": "https://www.reuters.com/resizer/LBd7zU0W6dX3jk18Ro5g0Z4L-dM=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/7HEQU66VEROURMOI4NI6IOQOX4.jpg",
+    "publishedAt": "2021-09-28T02:28:00Z",
+    "content": "A man stands in front of a screen displaying Nikkei share average and the world's stock indexes outside a brokerage, amid the coronavirus disease (COVID-19) outbreak, in Tokyo, Japan December 30, 202… [+3217 chars]"
+  },
+  {
+    "source": {
+      "id": "axios",
+      "name": "Axios"
+    },
+    "author": "Noah Garfinkel",
+    "title": "Pfizer testing oral pill for prevention of COVID - Axios",
+    "description": "This drug is one of several antiviral pills that could have a huge impact on coronavirus treatment.",
+    "url": "https://www.axios.com/pfizer-tests-oral-pill-covid-infection-prevention-82292abc-1b7a-4109-8abb-a15e02ba7a0e.html",
+    "urlToImage": "https://images.axios.com/x1msOD2megGD_IR0H3a2QI5TJ18=/0x486:5735x3712/1366x768/2021/09/28/1632787373097.jpg",
+    "publishedAt": "2021-09-28T01:02:02Z",
+    "content": "Pfizer announced Monday that it is testing an oral antiviral drug that would help prevent COVID-19. \r\nWhy it matters: This drug is one of several antiviral pills that could have a massive impact on c… [+1132 chars]"
+  },
+ {
+    "source": {
+      "id": "engadget",
+      "name": "Engadget"
+    },
+    "author": "https://www.engadget.com/about/editors/jessica-conditt",
+    "title": "Activision Blizzard settles its EEOC lawsuit with an $18 million payout - Engadget",
+    "description": "This is just one lawsuit facing the house of Call of Duty..",
+    "url": "https://www.engadget.com/activision-blizzard-settles-eeoc-18-million-lawsuit-005806200.html",
+    "urlToImage": "https://s.yimg.com/os/creatr-uploaded-images/2021-08/2e181be0-fb66-11eb-bfeb-82709be393f6",
+    "publishedAt": "2021-09-28T00:59:35Z",
+    "content": "In order to settle a lawsuit brought by the US Equal Employment Opportunity Commission, Activision Blizzard has agreed to establish an $18 million fund for eligible claimants meaning, employees who w… [+1538 chars]"
+  }
+
+]
+}
